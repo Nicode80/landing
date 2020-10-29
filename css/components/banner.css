@@ -1,0 +1,18 @@
+.banner {
+  height: 100vh;
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-container {
+  width : 60vw;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.banner-container > p {
+  opacity: 70%;
+}

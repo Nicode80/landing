@@ -1,0 +1,28 @@
+.card-container {
+  width: 100vw;
+  text-align: center;
+  padding: 10px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  box-shadow: 0px 0px 20px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 25px;
+  padding: 20px
+}
+
+.card h3,
+.card p {
+  text-align: center;
+}
+
+.card img {
+  height: 100px;
+}

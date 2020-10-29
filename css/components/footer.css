@@ -1,0 +1,22 @@
+footer {
+  background-color: #2c2b2b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+
+i {
+  color: #1DDD88
+}
+
+.list-inline > li {
+  list-style: none;
+  display: inline-block;
+  font-size: 40px
+}
+
+footer p {
+  color: #6B6C6C;
+}
